@@ -34,7 +34,7 @@
 
 ## Статистика
 ![Моя статистика в GitHub](https://github-readme-stats.vercel.app/api?username=wwyynnee&show_icons=true&hide=prs&theme=dracula)
-![Самые используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=wwyynnee&hide=nix&langs_count=4&layout=compact)
+![Самые используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=wwyynnee&hide=nix&layout=compact)
 
 ## Мои услуги
 Со мной удобно работать и мне важно, чтобы клиент остался доволен! Моя цель ― предоставить лучшую услугу на рынке!
