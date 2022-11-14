@@ -16,9 +16,6 @@
 <a href="https://developer.mozilla.org/ru/docs/Web/JavaScript">
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 </a>
-<a href="https://docs.microsoft.com/ru-ru/dotnet/csharp/">
-  <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-</a>
 <a href="https://nodejs.org/ru/">
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 </a>
@@ -27,9 +24,6 @@
 </a>
 <a href="https://git-scm.com/">
   <code><img height="25" src="https://git-scm.com/favicon.ico"></code>
-</a>
-<a href="https://unity.com/">
-  <code><img height="25" src="https://unity.com/themes/contrib/unity_base/images/favicons/favicon.svg?v=4"></code>
 </a>
 
 ## Статистика
