@@ -1,5 +1,3 @@
-# Привет 👋
-
 ## Обо мне
 Я занимаюсь разработкой и созданием веб-сайтов более 3-х лет. Владею HTML, CSS, JavaScript, PHP на продвинутом уровне. Я воплощаю идеи и дизайны в веб-жизнь!
 
@@ -36,9 +34,6 @@
 </a>
 <a href="https://t.me/wwyynnee">
   <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"></code>
-</a>
-<a href="https://vk.com/wwyynnee">
-  <code><img height="25" src="https://vk.com/images/icons/favicons/fav_logo.ico?6"></code>
 </a>
 <a href="https://glitch.com/@wynne">
   <code><img height="25" src="https://glitch.com/favicon.ico"></code>
