@@ -14,4 +14,4 @@ Telegram для связи: https://t.me/wwyynnee<br>
 
 ## Статистика
 ![Моя статистика в GitHub](https://github-readme-stats.vercel.app/api?username=wwyynnee&show_icons=true&hide=prs&theme=dracula)
-![Самые используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=wwyynnee&hide=nix,procfile,php,hack&layout=compact)
+![Самые используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=wwyynnee&hide=nix,procfile,php,hack,tex&layout=compact)
