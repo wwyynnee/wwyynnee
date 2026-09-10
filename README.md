@@ -16,5 +16,6 @@ Telegram для связи: https://t.me/wwyynnee<br>
 <code title="Git"><img height="35" src="https://git-scm.com/favicon.ico"></code>
 
 ## Статистика
-![Моя статистика в GitHub](https://github-readme-stats.vercel.app/api?username=wwyynnee&show_icons=true&hide=prs&theme=dracula)
-![Самые используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=wwyynnee&hide=nix,procfile,php,hack,tex&layout=compact)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=wwyynnee&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=wwyynnee&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wwyynnee&layout=compact&theme=github_dark)
