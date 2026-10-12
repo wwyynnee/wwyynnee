@@ -1,7 +1,7 @@
 ## Обо мне
 Занимаюсь разработкой сайтов, чат-ботов, программ. Владею всеми основными технологиями на продвинутом уровне. Всегда открыт к новым решениям и общению, изучаю новые подходы и технологии в сфере веб-разработки<br>
 Telegram для связи: https://t.me/wwyynnee<br>
-Портфолио: https://wwyynnee.site
+Портфолио: https://wynne.ru
 
 ## Навыки
 <code title="html"><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
